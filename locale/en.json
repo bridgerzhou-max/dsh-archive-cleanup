@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Archived sessions",
+    "description": "List archived sessions and permanently delete their logs and projection cache."
+  }
+}
